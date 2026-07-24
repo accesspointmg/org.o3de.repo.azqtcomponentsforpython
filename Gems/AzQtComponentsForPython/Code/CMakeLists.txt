@@ -6,7 +6,7 @@
 #
 #
 
-o3de_pal_path(${CMAKE_CURRENT_LIST_DIR}/Platform/${PAL_PLATFORM_NAME} pal_dir)
+set(pal_dir ${CMAKE_CURRENT_LIST_DIR}/Platform/${PAL_PLATFORM_NAME})
 
 include(${pal_dir}/PAL_${PAL_PLATFORM_NAME_LOWERCASE}.cmake)
 
