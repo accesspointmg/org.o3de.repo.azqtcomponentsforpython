@@ -1,26 +1,37 @@
 {
-    "gem_name": "AzQtComponentsForPython",
-    "display_name": "AzQtComponents For Python",
-    "license": "Apache-2.0 Or MIT",
-    "license_url": "https://github.com/o3de/o3de/blob/development/LICENSE.txt",
-    "origin": "Open 3D Engine - o3de.org",
-    "origin_url": "https://github.com/o3de/o3de",
-    "type": "Code",
-    "summary": "This gem provides a library to use the AzQtComponents library from Python.",
-    "canonical_tags": [
-        "Gem"
-    ],
-    "user_tags": [
-        "Scripting",
-        "UI"
-    ],
-    "icon_path": "preview.png",
-    "requirements": "",
-    "documentation_url": "",
-    "dependencies": [
-        "EditorPythonBindings"
-    ],
-    "repo_uri": "https://raw.githubusercontent.com/o3de/o3de-extras/development",
-    "download_source_uri": "https://github.com/o3de/o3de-extras/releases/download/2.0/azqtcomponentsforpython-1.0.0-gem.zip",
-    "version": "1.0.0"
+  "gem_name": "AzQtComponentsForPython",
+  "display_name": "AzQtComponents For Python",
+  "license": "Apache-2.0 Or MIT",
+  "license_url": "https://github.com/o3de/o3de/blob/development/LICENSE.txt",
+  "origin": "Open 3D Engine - o3de.org",
+  "origin_url": "https://github.com/o3de/o3de",
+  "type": "Code",
+  "summary": "This gem provides a library to use the AzQtComponents library from Python.",
+  "canonical_tags": [
+    "Gem"
+  ],
+  "user_tags": [
+    "Scripting",
+    "UI"
+  ],
+  "icon_path": "preview.png",
+  "requirements": "",
+  "documentation_url": "",
+  "dependencies": [
+    "EditorPythonBindings"
+  ],
+  "repo_uri": "https://raw.githubusercontent.com/o3de/o3de-extras/development",
+  "download_source_uri": "https://github.com/o3de/o3de-extras/releases/download/2.0/azqtcomponentsforpython-1.0.0-gem.zip",
+  "version": "1.0.0",
+  "releases": [
+    {
+      "name": "2607.0",
+      "source_controls": [
+        {
+          "git": "https://github.com/accesspointmg/org.o3de.repo.azqtcomponentsforpython.git",
+          "tag": "2607.0"
+        }
+      ]
+    }
+  ]
 }
